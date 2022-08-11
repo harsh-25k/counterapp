@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "https://github.com/harsh-25k/counterapp.git/static/js/main.2c6e0774.js",
-    "index.html": "https://github.com/harsh-25k/counterapp.git/index.html",
-    "main.2c6e0774.js.map": "https://github.com/harsh-25k/counterapp.git/static/js/main.2c6e0774.js.map"
+    "main.js": "https://harsh-25k.github.io/counterapp/static/js/main.2c6e0774.js",
+    "index.html": "https://harsh-25k.github.io/counterapp/index.html",
+    "main.2c6e0774.js.map": "https://harsh-25k.github.io/counterapp/static/js/main.2c6e0774.js.map"
   },
   "entrypoints": [
     "static/js/main.2c6e0774.js"
